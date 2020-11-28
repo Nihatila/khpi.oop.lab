@@ -9,10 +9,7 @@ public class Main {
         int ost = 1 + (26 % (20 - 1));
         String letter = "H";
         count(zhachotka);
-        count(num2);
-        count(num4);
-        count(ost);
-        findo(num2);
+        //findo(num2);
     }
     static int findo(int i){
         int count = 0;
